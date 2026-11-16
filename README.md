@@ -4,9 +4,9 @@ An interactive guide to the *Xuanji Tu*, the reversible poem attributed to the f
 
 ## Viewing it
 
-Open `index.html` in a browser.
+Live page: https://sciencescepter.github.io/star-gauge/
 
-To share it as a web page, switch on GitHub Pages for this repository (Settings, then Pages, then "Deploy from a branch" with the `main` branch and the `/ (root)` folder). The page is then served at `https://<your-username>.github.io/<repository-name>/`.
+It is served by GitHub Pages from the `main` branch of this repository. You can also download `index.html` and open it in a browser.
 
 ## What the page does
 
